@@ -2,7 +2,7 @@
 <hr>
 <strong>👨🏻‍💻Sobre mim...</strong><br>
 <strong>👩🏽‍💻Estudando:</strong>Atualmente sou estudante de full stack web na </Growdev>\.<br>
-<strong>🧑‍🎓 Formação:</strong> Atualmente estou formado em Design de Produto, mas seguindo caminho cursando a décima sexta edição do programa Starter Web Full Stack pela GrowDev.<br>
+<strong>🧑‍🎓 Formação:</strong> Atualmente estou formado em Design de Produto, mas seguindo caminho cursando a décima oitava edição do programa Starter Web Full Stack pela GrowDev.<br>
 <strong>🎮 Hobbies: </strong> Bem, eu costumo praticar escrita criativa e buscar conhecimento pra aplicá-la melhor.E também jogar video-game.<br>
 <strong>✍️ Experiencia:</strong> Profissionalmente na área ainda não tenho nenhuma, mas sigo me desenvolvendo ao máximo pra ingressar nesse mercado crescente.<br>
 <strong>💡  HardSkills:</strong> Sou bastante criativo, principalmente para tentar encontrar soluções para determinados problemas que estiverem ao meu alcance.<br>
