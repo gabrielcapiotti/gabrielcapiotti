@@ -1,33 +1,44 @@
-<h2>Opa! Seja bem vindo ao meu perfil! Espero que aproveite o que procura.</h2>
-<hr>
-<strong>👨🏻‍💻Sobre mim...</strong><br>
-<strong>👩🏽‍💻Estudando:</strong>Atualmente sou estudante de full stack e também estudante de JAVA.<br>
-<strong>🎮 Hobbies: </strong> Bem, eu costumo praticar escrita criativa e buscar conhecimento pra aplicá-la melhor.E também jogar video-game.<br>
-<strong>✍️ Experiencia:</strong> Profissionalmente na área ainda não tenho nenhuma, mas sigo me desenvolvendo ao máximo pra ingressar nesse mercado crescente.<br>
-<strong>👨🏻‍💻 Investigando:</strong> Embarcando em conhecimentos sobre inteligencia articial.<br>
-<br>
+## 👋 Olá! Seja bem-vindo ao meu perfil
 
-<hr>
-<strong>Bem... Aqui está um pouco mais sobre mim.</strong> <br>
+Fico feliz que esteja aqui. Espero que encontre algo útil ou interessante nos meus projetos.
 
-<strong><h1>GitHub Estatísticas</h1></strong><br>
-[![card](https://github-readme-stats.vercel.app/api?username=gabrielcapiotti&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 👨‍💻 Sobre mim
 
+- 🎓 **Estudos:** Estudante de desenvolvimento **Full Stack** com foco atual em **Java**
+- 🎮 **Hobbies:** Escrita criativa, estudo constante para aprimoramento técnico e videogames
+- ✍️ **Experiência:** Ainda não possuo experiência profissional na área, mas estou em constante evolução para ingressar no mercado de tecnologia
+- 🤖 **Investigando:** Inteligência Artificial e suas aplicações práticas no desenvolvimento de software
 
-<hr>
-<strong><h1>Linguagens e Ferramentas:</h1></strong> <br> 
-<strong>Essas são as tecnologias que estou aprendendo no momento...</strong> <br>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/> </code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+---
 
-<hr>
+## 📊 Estatísticas do GitHub
 
- 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcapiotti&theme=dark&show_icons=true)
 
-🤝🏻  Vem! Vamos nos conectar!<br>
-Contato: gabrielcapiottialfa@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcapiotti&layout=compact&theme=dark)
+
+---
+
+## 🛠️ Linguagens e Ferramentas
+
+Tecnologias que estou estudando e utilizando atualmente:
+
+<p>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
+</p>
+
+---
+
+## 🤝 Vamos nos conectar
+
+📫 **Contato:**  
+**Email:** gabrielcapiottialfa@gmail.com
+
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato.
+
