@@ -1,12 +1,10 @@
 <h2>Opa! Seja bem vindo ao meu perfil! Espero que aproveite o que procura.</h2>
 <hr>
 <strong>👨🏻‍💻Sobre mim...</strong><br>
-<strong>👩🏽‍💻Estudando:</strong>Atualmente sou estudante de full stack web na </Growdev>\.<br>
-<strong>🧑‍🎓 Formação:</strong> Atualmente estou formado em Design de Produto, mas seguindo caminho cursando a décima oitava edição do programa Starter Web Full Stack pela GrowDev.<br>
+<strong>👩🏽‍💻Estudando:</strong>Atualmente sou estudante de full stack e também estudante de JAVA.<br>
 <strong>🎮 Hobbies: </strong> Bem, eu costumo praticar escrita criativa e buscar conhecimento pra aplicá-la melhor.E também jogar video-game.<br>
 <strong>✍️ Experiencia:</strong> Profissionalmente na área ainda não tenho nenhuma, mas sigo me desenvolvendo ao máximo pra ingressar nesse mercado crescente.<br>
-<strong>💡  HardSkills:</strong> Sou bastante criativo, principalmente para tentar encontrar soluções para determinados problemas que estiverem ao meu alcance.<br>
-<strong>👨🏻‍💻 Investigando:</strong> Começando embarcar em conhecimentos sobre inteligencia articial porque acredito que o futuro com elas será necessário nesse ramo.<br>
+<strong>👨🏻‍💻 Investigando:</strong> Embarcando em conhecimentos sobre inteligencia articial.<br>
 <br>
 
 <hr>
