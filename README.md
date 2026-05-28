@@ -89,8 +89,6 @@ Atualmente, também atuo em projetos relacionados à Agência Capiotti, envolven
 ### 📈 Linguagens mais utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcapiotti&layout=compact&theme=dark)
 
-Você pode deixar essa seção mais moderna, organizada e alinhada com um perfil de desenvolvedor back-end em evolução profissional, sem parecer genérico ou excessivamente “iniciante”.
-
 ---
 
 # 🛠️ Tecnologias & Stack Principal
